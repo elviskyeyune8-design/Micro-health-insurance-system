@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / local overrides & secrets
+.env
+.env.*
+config/*.local.php
+
+# Logs & temp
+*.log
+logs/
+tmp/
+cache/
+
+# Dependencies
+vendor/
+node_modules/
+
+# User uploads (e.g. prescription scans)
+uploads/
+
+# Database dumps other than the canonical schema
+*.sql.bak
+database/backups/
+
