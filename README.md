@@ -13,7 +13,6 @@ A web-based micro health insurance platform designed for low-income pharmacy cli
 
 | Student Name | Registration Number | Phone Contact |
 |---|---|---|
-| Katongole Erisa | 24/U/05484/PS | +256-767269901 |
 | Ekii Jesse Ryan | 24/U/0381 | +256-773190362 |
 | Kyeyune Elvis | 24/U/16368/EVE | +256-705711566 |
 | Ainemukama Trevor | 24/U/02969/PS | +256-753305903 |
